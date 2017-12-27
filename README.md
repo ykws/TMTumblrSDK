@@ -1,5 +1,7 @@
 # Tumblr SDK for iOS
 
+[![Build Status](https://travis-ci.org/tumblr/TMTumblrSDK.svg?branch=master)](https://travis-ci.org/tumbr/TMTumblrSDK)
+
 An unopinionated and flexible library for easily integrating Tumblr data into
 your iOS or OS X application. The library uses ARC requires at least iOS 9 or OS X 10.10.
 
